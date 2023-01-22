@@ -68,7 +68,7 @@ int main()
 						   0);
 
 				// creating a remote thread to load the dll within 
-				// the targeted process using 'LoadLibraryA'
+				// the targeted process using 'LoadLibrary'
 				const auto threadHandle = CreateRemoteThread(procHandle,
 									     0,
 									     0,
