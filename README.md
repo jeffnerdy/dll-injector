@@ -1,5 +1,5 @@
 # DLL Injector
 
-A DLL injector implemented using the LoadLibrary function.
+A command line based dll injector.
 
-Intended for educational purposes.
+Intended only for educational purposes.
